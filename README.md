@@ -1,6 +1,6 @@
 # Yhangry Full-Stack Application
 
-This project is a full-stack application built with **MySQL, React, and Node.js**. It allows users to browse and filter set menus, calculate total prices based on the number of guests, and load more results dynamically.
+This project is a full-stack application built with **Node.js, React, MySQL and Docker**. It allows users to browse and filter set menus, calculate total prices based on the number of guests, and load more results dynamically.
 
 ---
 
